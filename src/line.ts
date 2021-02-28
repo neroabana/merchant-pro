@@ -9,6 +9,5 @@ export class Line {
 
     public bike: Bike;
     public quantity: number;
-    public coupon: string;
-    
+    public coupon: string;    
 }
