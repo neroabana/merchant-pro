@@ -16,9 +16,9 @@ Total: $1,072.50`;
 
 describe('Receipt 1 Defy', () => {
     it('should print a receipt with 1 Defy 1', () => {
-        var order = new Order("Anywhere Bike Shop");
-        order.addLine(new Line(defy, 1));
-        expect(order.receipt()).to.equal(resultStatementOneDefy);
+      var order = new Order("Anywhere Bike Shop");
+      order.addLine(new Line(defy, 1));
+      expect(order.receipt()).to.equal(resultStatementOneDefy);
     });
 });
 
