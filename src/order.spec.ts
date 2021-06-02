@@ -1,6 +1,4 @@
-
 import 'mocha';
-
 import { Order } from './order';
 import { Line } from './line';
 import { Bike } from './bike';
