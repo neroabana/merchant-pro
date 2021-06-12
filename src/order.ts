@@ -1,4 +1,4 @@
-import { Line } from "./line";
+import {Line} from "./line";
 import { Bike } from "./bike";
 
 const newline = '\n';
