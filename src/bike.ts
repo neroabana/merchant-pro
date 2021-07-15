@@ -1,5 +1,6 @@
 export class Bike {  
-    static OneThousand = 1000;
+   
+   static OneThousand = 1000;
     static TwoThousand = 2000;
     static ThreeThousand = 3000;
     static FourThousand = 4000;
