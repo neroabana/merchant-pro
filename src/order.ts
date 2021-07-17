@@ -3,7 +3,6 @@ import { Bike } from "./bike";
 
 const newline = '\n';
 
-
 function formatMoney(amount: any, decimalCount = 2, decimal = ".", thousands = ",") {
     try {      
         decimalCount = Math.abs(decimalCount);
