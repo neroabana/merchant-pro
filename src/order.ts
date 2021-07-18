@@ -20,8 +20,7 @@ function formatMoney(amount: any, decimalCount = 2, decimal = ".", thousands = "
     }
 }
 
-export class Order {
-  
+export class Order {  
     private _taxRate: number = .0725;
     private _lines: Line[] = []; 
     private _company: string;
