@@ -1,3 +1,5 @@
+
+
 export class Bike {  
    
    static OneThousand = 1000;
