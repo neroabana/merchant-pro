@@ -1,4 +1,3 @@
-
 import { Bike } from "./bike";
 
 export class Line {  
